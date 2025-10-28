@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm 
+catboost
+polars
+plotly
+xgboost
+preprocessing_polars
+features_forecasting

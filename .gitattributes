@@ -1,0 +1,2 @@
+data/Order_Details.csv filter=lfs diff=lfs merge=lfs -text
+data/Orders.csv filter=lfs diff=lfs merge=lfs -text
